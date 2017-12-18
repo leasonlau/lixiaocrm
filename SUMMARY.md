@@ -1,6 +1,6 @@
 # Summary
 
-* [爱客CRM简介](README.md)
+* [励销CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
   * [线索](chapter1/xian-suo.md)
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
