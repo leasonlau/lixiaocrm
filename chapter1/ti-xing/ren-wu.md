@@ -1,4 +1,4 @@
-工作台新增任务
+# 工作台新增任务
 
 点击“+”，打开“新增任务”弹窗![](/assets/import22.png)
 
@@ -17,6 +17,4 @@
 ![](/assets/import33.png)
 
 可在“线索”，“客户”，“商机”，“合同”的详情页对该对象创建任务![](/assets/import333.png)![](/assets/import222.png)
-
-
 

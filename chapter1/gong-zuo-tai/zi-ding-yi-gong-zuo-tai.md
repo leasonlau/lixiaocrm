@@ -1,4 +1,6 @@
-用户可以根据自己需要自定义工作台模块以及排序方式
+# 自定义工作台
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml\wps2E71.tmp.jpg)
+用户可以根据自己需要自定义工作台模块启用与否及其排序方式
+
+![](/assets/自定义工作台import.png)
 

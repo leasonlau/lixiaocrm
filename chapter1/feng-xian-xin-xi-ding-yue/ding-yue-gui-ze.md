@@ -1,4 +1,4 @@
-**订阅须知：**
+# **订阅规则**
 
 1.订阅一家企业每月消耗1个点。
 
@@ -6,5 +6,5 @@
 
 3.剩余点数充足时，到期自动续订，如取消续订，当月已扣点数不退还。
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml\wpsBD7A.tmp.jpg)
+![](/assets/风险订阅import16.png)
 
