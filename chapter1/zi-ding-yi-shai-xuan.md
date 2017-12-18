@@ -1,0 +1,24 @@
+## **自定义筛选**
+
+用户可以根据自己的需求，自定义筛选条件筛选列表页业务数据。
+
+
+
+线索/客户/客户公海/联系人/商机/合同/回款 列表页支持自定义筛选
+
+列表页右上角点击“设置”按钮，根据需求勾选筛选条件，最多可选择7个条件，可以排序筛选条件
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml\wps70BD.tmp.jpg)
+
+点击“重置”恢复系统默认设置，点击“保存”保存用户自定义设置
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml\wps70CD.tmp.jpg)
+
+用户自定义字段支持筛选的类型有“单选下拉”、“多选下拉”、“时间”三种类型
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml\wps70CE.tmp.jpg)
+
+
+
+
+
