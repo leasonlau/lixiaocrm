@@ -36,7 +36,7 @@
     * [待审批的客户](chapter1/ke-hu/dai-shen-pi-de-ke-hu.md)
     * [导出客户](chapter1/ke-hu/dao-chu-ke-hu.md)
     * [添加联系人](chapter1/ke-hu/tian-jia-lian-xi-ren.md)
-    * [添加商机](chapter1/ke-hu/tian-jia-shang-ji.md)
+    * [添加机会](chapter1/ke-hu/tian-jia-shang-ji.md)
     * [添加合同](chapter1/ke-hu/tian-jia-he-tong.md)
     * [添加费用](chapter1/ke-hu/tian-jia-fei-yong.md)
     * [下级客户](chapter1/ke-hu/xia-ji-ke-hu.md)
