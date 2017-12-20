@@ -18,7 +18,7 @@
     * [导出线索](chapter1/xian-suo/dao-chu-xian-suo.md)
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
   * [客户](chapter1/ke-hu.md)
-    * [新增客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
+    * [新建客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
     * [导入客户](chapter1/ke-hu/dao-ru-ke-hu.md)
     * [导入客户跟进记录](chapter1/ke-hu/dao-ru-ke-hu-gen-jin-ji-lu.md)
     * [客户查重](chapter1/ke-hu/ke-hu-cha-zhong.md)
