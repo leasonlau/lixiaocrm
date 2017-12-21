@@ -111,7 +111,7 @@
     * [复制合同](chapter1/he-tong/fu-zhi-he-tong.md)
     * [合同审批](chapter1/he-tong/he-tong-shen-pi.md)
   * [回款](chapter1/hui-kuan.md)
-    * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
+    * [新建回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
     * [编辑回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua/bian-ji-hui-kuan-ji-hua.md)
     * [回款计划详情](chapter1/hui-kuan/hui-kuan-ji-hua-xiang-qing.md)
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
