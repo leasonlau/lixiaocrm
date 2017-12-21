@@ -53,7 +53,7 @@
     * [公海成员](chapter1/ke-hu-gong-hai/gong-hai-cheng-yuan.md)
     * [抢客户](chapter1/ke-hu-gong-hai/qiang-ke-hu.md)
   * [联系人](chapter1/lian-xi-ren.md)
-    * [新增联系人](chapter1/lian-xi-ren/xin-zeng-lian-xi-ren.md)
+    * [新建联系人](chapter1/lian-xi-ren/xin-zeng-lian-xi-ren.md)
     * [导入联系人](chapter1/lian-xi-ren/dao-ru-lian-xi-ren.md)
     * [扫描名片](chapter1/lian-xi-ren/sao-miao-ming-pian.md)
     * [联系人查重](chapter1/lian-xi-ren/lian-xi-ren-cha-zhong.md)
