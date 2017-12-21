@@ -87,7 +87,7 @@
     * [添加费用](chapter1/shang-ji/tian-jia-fei-yong.md)
     * [转成合同](chapter1/shang-ji/zhuan-cheng-he-tong.md)
   * [合同](chapter1/he-tong.md)
-    * [新增合同](chapter1/he-tong/xin-zeng-he-tong.md)
+    * [新建合同](chapter1/he-tong/xin-zeng-he-tong.md)
     * [导入合同](chapter1/he-tong/dao-ru-he-tong.md)
     * [导入合同跟进记录](chapter1/he-tong/dao-ru-he-tong-gen-jin-ji-lu.md)
     * [转移给他人](chapter1/he-tong/zhuan-yi-gei-ta-ren.md)
