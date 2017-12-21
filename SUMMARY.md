@@ -67,7 +67,7 @@
     * [我下属协作的联系人](chapter1/lian-xi-ren/wo-xia-shu-xie-zuo-de-lian-xi-ren.md)
     * [导出联系人](chapter1/lian-xi-ren/dao-chu-lian-xi-ren.md)
     * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
-  * [商机](chapter1/shang-ji.md)
+  * [机会](chapter1/shang-ji.md)
     * [新增商机](chapter1/shang-ji/xin-zeng-shang-ji.md)
     * [导入商机](chapter1/shang-ji/dao-ru-shang-ji.md)
     * [导入商机跟进记录](chapter1/shang-ji/dao-ru-shang-ji-gen-jin-ji-lu.md)
