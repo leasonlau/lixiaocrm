@@ -127,7 +127,7 @@
     * [开票记录详情](chapter1/hui-kuan/kai-piao-ji-lu-xiang-qing.md)
     * [导入开票记录](chapter1/hui-kuan/dao-ru-kai-piao-ji-lu.md)
   * [产品](chapter1/chan-pin.md)
-    * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
+    * [新建产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * [导入产品](chapter1/chan-pin/dao-ru-chan-pin.md)
     * [产品详情](chapter1/chan-pin/chan-pin-xiang-qing.md)
     * [编辑产品](chapter1/chan-pin/bian-ji-chan-pin.md)
