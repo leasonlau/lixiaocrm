@@ -122,7 +122,7 @@
     * [导入回款记录](chapter1/hui-kuan/dao-ru-hui-kuan-ji-lu.md)
     * [导出回款记录](chapter1/hui-kuan/dao-chu-hui-kuan-ji-lu.md)
     * [回款记录审批](chapter1/hui-kuan/hui-kuan-ji-lu-shen-pi.md)
-    * [新增开票记录](chapter1/hui-kuan/xin-zeng-kai-piao-ji-lu.md)
+    * [新建开票记录](chapter1/hui-kuan/xin-zeng-kai-piao-ji-lu.md)
     * [编辑开票记录](chapter1/hui-kuan/bian-ji-kai-piao-ji-lu.md)
     * [开票记录详情](chapter1/hui-kuan/kai-piao-ji-lu-xiang-qing.md)
     * [导入开票记录](chapter1/hui-kuan/dao-ru-kai-piao-ji-lu.md)
