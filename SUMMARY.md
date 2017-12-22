@@ -134,7 +134,7 @@
     * [删除产品](chapter1/chan-pin/shan-chu-chan-pin.md)
     * [禁用产品](chapter1/chan-pin/jin-yong-chan-pin.md)
     * [启用产品](chapter1/chan-pin/qi-yong-chan-pin.md)
-    * [新增产品分类](chapter1/chan-pin/xin-zeng-chan-pin-fen-lei.md)
+    * [新建产品分类](chapter1/chan-pin/xin-zeng-chan-pin-fen-lei.md)
     * [编辑产品分类](chapter1/chan-pin/bian-ji-chan-pin-fen-lei.md)
     * [删除产品分类](chapter1/chan-pin/shan-chu-chan-pin-fen-lei.md)
     * [导出产品](chapter1/chan-pin/dao-chu-chan-pin.md)
