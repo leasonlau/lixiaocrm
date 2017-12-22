@@ -116,7 +116,7 @@
     * [回款计划详情](chapter1/hui-kuan/hui-kuan-ji-hua-xiang-qing.md)
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
     * [导出回款计划](chapter1/hui-kuan/dao-chu-hui-kuan-ji-hua.md)
-    * [新增回款记录](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-lu.md)
+    * [新建回款记录](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-lu.md)
     * [编辑回款记录](chapter1/hui-kuan/bian-ji-hui-kuan-ji-lu.md)
     * [回款记录详情](chapter1/hui-kuan/hui-kuan-ji-lu-xiang-qing.md)
     * [导入回款记录](chapter1/hui-kuan/dao-ru-hui-kuan-ji-lu.md)
