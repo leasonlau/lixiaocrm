@@ -4,5 +4,5 @@
 
 点击月份，可查看详细的商机列表。
 
-![](/assets/销售预测1.png)![](/assets/销售预测2.png)
+![](/assets/lix销售预测报表.png)![](/assets/lix销售预测报表2.png)
 
