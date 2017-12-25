@@ -4,5 +4,5 @@
 
 点击列表的数值，可查看详细的线索、客户、商机、合同数据。
 
-![](/assets/lix业务新建.png)![](/assets/lix业务新建2.png)
+![](/assets/lix业务新建4.png)![](/assets/lix业务新建5.png)
 

@@ -4,5 +4,5 @@
 
 点击列表中的各数据指标可查看相应的详情信息。
 
-![](/assets/回款计划.png)![](/assets/回款计划1.png)
+![](/assets/lix回款.png)![](/assets/lix回款2.png)
 

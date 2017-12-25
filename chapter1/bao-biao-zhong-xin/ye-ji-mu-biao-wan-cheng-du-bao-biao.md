@@ -4,5 +4,5 @@
 
 点击下方列表的月份时，可查看完成的详细数据。
 
-![](/assets/lix业绩目标.png)![](/assets/lix业绩目标2.png)
+![](/assets/lix业绩目标4.png)![](/assets/lix业绩目标2.png)
 
