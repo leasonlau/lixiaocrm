@@ -147,7 +147,7 @@
     * [回款计划汇总报表](chapter1/bao-biao-zhong-xin/hui-kuan-ji-hua-hui-zong-bao-biao.md)
     * [产品销售汇总报表](chapter1/bao-biao-zhong-xin/chan-pin-xiao-shou-hui-zong-bao-biao.md)
     * [赢单商机汇总报表](chapter1/bao-biao-zhong-xin/ying-dan-shang-ji-hui-zong-bao-biao.md)
-    * 合同汇总报表
+    * [合同汇总报表](chapter1/bao-biao-zhong-xin/he-tong-hui-zong-bao-biao.md)
     * 拜访签到报表
     * 销售回款排名报表
     * 客户数量排名报表
