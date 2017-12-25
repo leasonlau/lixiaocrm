@@ -156,8 +156,8 @@
     * [线索转化率](chapter1/bao-biao-zhong-xin/xian-suo-zhuan-hua-lv.md)
     * [工作报告报表](chapter1/bao-biao-zhong-xin/gong-zuo-bao-gao-bao-biao.md)
     * [客户类型统计报表](chapter1/bao-biao-zhong-xin/ke-hu-lei-xing-tong-ji-bao-biao.md)
-    * 数据上报报表
-    * 短信转化率报表
+    * [数据上报报表](chapter1/bao-biao-zhong-xin/shu-ju-shang-bao-bao-biao.md)
+    * [短信转化率报表](chapter1/bao-biao-zhong-xin/duan-xin-zhuan-hua-lv-bao-biao.md)
     * [短信到达率报表](chapter1/bao-biao-zhong-xin/duan-xin-dao-da-lv-bao-biao.md)
     * [自定义报表](chapter1/bao-biao-zhong-xin/zi-ding-yi-bao-biao.md)
     * 呼出统计报表
