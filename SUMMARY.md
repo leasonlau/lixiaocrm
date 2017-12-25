@@ -160,9 +160,9 @@
     * [短信转化率报表](chapter1/bao-biao-zhong-xin/duan-xin-zhuan-hua-lv-bao-biao.md)
     * [短信到达率报表](chapter1/bao-biao-zhong-xin/duan-xin-dao-da-lv-bao-biao.md)
     * [自定义报表](chapter1/bao-biao-zhong-xin/zi-ding-yi-bao-biao.md)
-    * 呼出统计报表
-    * 呼入统计报表
-    * 呼出流水报表
+    * [呼出统计报表](chapter1/bao-biao-zhong-xin/hu-chu-tong-ji-bao-biao.md)
+    * [呼入统计报表](chapter1/bao-biao-zhong-xin/hu-ru-tong-ji-bao-biao.md)
+    * [呼出流水报表](chapter1/bao-biao-zhong-xin/hu-chu-liu-shui-bao-biao.md)
     * [呼入流水报表](chapter1/bao-biao-zhong-xin/hu-ru-liu-shui-bao-biao.md)
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
     * [写报告](chapter1/gong-zuo-bao-gao/xie-bao-gao.md)
