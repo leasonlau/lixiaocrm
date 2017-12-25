@@ -179,7 +179,7 @@
     * [设置业绩目标](chapter1/ye-ji-mu-biao/she-zhi-ye-ji-mu-biao.md)
     * [查看业绩目标完成情况](chapter1/ye-ji-mu-biao/cha-kan-ye-ji-mu-biao-wan-cheng-qing-kuang.md)
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
-    * [新增费用](chapter1/fei-yong-bao-xiao/xin-zeng-fei-yong.md)
+    * [新建费用](chapter1/fei-yong-bao-xiao/xin-zeng-fei-yong.md)
     * 编辑费用
     * 费用详情
     * [新增报销单](chapter1/fei-yong-bao-xiao/xin-zeng-bao-xiao-dan.md)
