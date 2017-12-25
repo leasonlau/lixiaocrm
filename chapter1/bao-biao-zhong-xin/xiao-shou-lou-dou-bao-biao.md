@@ -4,5 +4,5 @@
 
 点击漏斗图或者下方列表的阶段名称，可查看详细的商机列表。
 
-![](/assets/销售漏斗1.png)![](/assets/销售漏斗2.png)
+![](/assets/lix销售漏斗.png)![](/assets/lix销售漏斗2.png)
 
