@@ -154,8 +154,8 @@
     * [业绩目标完成度排名报表](chapter1/bao-biao-zhong-xin/ye-ji-mu-biao-wan-cheng-du-pai-ming-bao-biao.md)
     * [销售额排名报表](chapter1/bao-biao-zhong-xin/xiao-shou-e-pai-ming-bao-biao.md)
     * [线索转化率](chapter1/bao-biao-zhong-xin/xian-suo-zhuan-hua-lv.md)
-    * 工作报告报表
-    * 客户类型统计报表
+    * [工作报告报表](chapter1/bao-biao-zhong-xin/gong-zuo-bao-gao-bao-biao.md)
+    * [客户类型统计报表](chapter1/bao-biao-zhong-xin/ke-hu-lei-xing-tong-ji-bao-biao.md)
     * 数据上报报表
     * 短信转化率报表
     * [短信到达率报表](chapter1/bao-biao-zhong-xin/duan-xin-dao-da-lv-bao-biao.md)
