@@ -183,8 +183,8 @@
     * [编辑费用](chapter1/fei-yong-bao-xiao/bian-ji-fei-yong.md)
     * [费用详情](chapter1/fei-yong-bao-xiao/fei-yong-xiang-qing.md)
     * [新建报销单](chapter1/fei-yong-bao-xiao/xin-zeng-bao-xiao-dan.md)
-    * 编辑报销单
-    * 报销单详情
+    * [编辑报销单](chapter1/fei-yong-bao-xiao/bian-ji-bao-xiao-dan.md)
+    * [报销单详情](chapter1/fei-yong-bao-xiao/bao-xiao-dan-xiang-qing.md)
     * [全部报销单](chapter1/fei-yong-bao-xiao/quan-bu-bao-xiao-dan.md)
     * [我的报销单](chapter1/fei-yong-bao-xiao/wo-de-bao-xiao-dan.md)
     * [全部费用](chapter1/fei-yong-bao-xiao/quan-bu-fei-yong.md)
