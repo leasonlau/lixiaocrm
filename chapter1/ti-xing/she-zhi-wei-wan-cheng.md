@@ -2,5 +2,5 @@
 
 可以看到该任务的用户可将已完成的任务设置为“未完成”
 
-![](/assets/import65.png)![](/assets/import75.png)
+![](/assets/lix任务未完成2.png)
 
