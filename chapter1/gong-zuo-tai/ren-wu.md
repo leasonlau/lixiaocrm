@@ -2,31 +2,29 @@
 
 1、用户可在任务栏按照日期和用户查看待处理的任务、系统提醒、过期任务
 
-![](/assets/任务1import.png)
+![](/assets/lix任务.png)
 
 2、任务
 
-用户可以快捷新增任务，点击“+”，填写任务内容，选择关联对象和参与人（可多选）
+用户可以快捷新增任务，点击“+”，填写任务内容，选择关联对象和参与人（可多选）![](/assets/lix任务3.png)
 
-![](/assets/任务2import.png)
+任务的参与人将收到系统通知“xxx给你创建了一条任务”
 
-任务的参与人将收到系统提醒“xxx给你创建了一条任务”
-
-![](/assets/任务import4.png)
+![](/assets/lix任务通知.png)
 
 用户可将未完成的任务设置为已完成，已完成的任务设置为未完成
 
-![](/assets/任务5import.png)
+![](/assets/lix任务4.png)
 
-![](/assets/任务7import.png)
+![](/assets/lix任务未完成.png)
 
 当任务过期后会有红点提示，可将过期任务全部设置为已完成
 
-![](/assets/任务8import.png)
+![](/assets/lix过期任务.png)
 
-点击“日历”，有任务的日期有三角标识
+点击“日历”，有任务的日期有橙色小圆点
 
-![](/assets/任务9import.png)
+![](/assets/lix任务提醒.png)
 
 3、提醒
 
