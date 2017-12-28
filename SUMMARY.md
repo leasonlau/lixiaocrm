@@ -265,7 +265,7 @@
   * [业绩目标](xi-tong-she-zhi/ye-ji-mu-biao.md)
   * [业绩提成](xi-tong-she-zhi/ye-ji-ti-cheng.md)
   * [查重设置](xi-tong-she-zhi/cha-zhong-she-zhi.md)
-  * [客户公海](xi-tong-she-zhi/ke-hu-gong-hai.md)
+  * [公海规则](xi-tong-she-zhi/ke-hu-gong-hai.md)
   * [工作报告](xi-tong-she-zhi/gong-zuo-bao-gao.md)
   * [数据上报](xi-tong-she-zhi/shu-ju-shang-bao.md)
   * [呼叫中心](xi-tong-she-zhi/hu-jiao-zhong-xin.md)
