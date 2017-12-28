@@ -274,7 +274,7 @@
   * [自定义业务模板](xi-tong-she-zhi/zi-ding-yi-ye-wu-mo-ban.md)
   * [自定义业务字段](xi-tong-she-zhi/zi-ding-yi-ye-wu-zi-duan.md)
   * [自定义业务参数](xi-tong-she-zhi/zi-ding-yi-ye-wu-can-shu.md)
-  * [自定义审批](xi-tong-she-zhi/zi-ding-yi-shen-pi.md)
+  * [审批设置](xi-tong-she-zhi/zi-ding-yi-shen-pi.md)
   * [更多设置](xi-tong-she-zhi/geng-duo-she-zhi.md)
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
