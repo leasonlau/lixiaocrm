@@ -297,5 +297,5 @@
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
     * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
-    * [爱客CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
+    * [励销CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
 
