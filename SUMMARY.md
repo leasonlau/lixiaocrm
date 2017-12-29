@@ -292,7 +292,7 @@
   * [附件上传](chang-jian-wen-ti/fu-jian-shang-chuan.md)
   * [电销版—无线话机](chang-jian-wen-ti/dian-xiao-ban-2014-wu-xian-hua-ji.md)
   * [电销版—电话宝](chang-jian-wen-ti/dian-xiao-ban-2014-dian-hua-bao.md)
-  * [钉钉相关](chang-jian-wen-ti/ding-ding-xiang-guan.md)
+  * [企业微信相关](chang-jian-wen-ti/ding-ding-xiang-guan.md)
   * [打通进销存](chang-jian-wen-ti/da-tong-jin-xiao-cun.md)
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
